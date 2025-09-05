@@ -1,6 +1,6 @@
 # 🌿 TeeKart - Premium T-Shirt E-Commerce Platform
 
-A modern, enterprise-grade e-commerce application built with Next.js 14, featuring a beautiful sage green theme and comprehensive shopping functionality.
+A modern, enterprise-grade e-commerce application built with Next.js 15, featuring a beautiful sage green theme and comprehensive shopping functionality.
 
 ## 🚀 Features
 
@@ -266,4 +266,4 @@ For support, email support@teekart.com or join our Slack channel.
 
 ---
 
-**Built with ❤️ using Next.js 14 and the power of modern web technologies.**
+**Built with ❤️ using Next.js 15 and the power of modern web technologies.**
